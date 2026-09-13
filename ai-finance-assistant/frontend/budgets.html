@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Budgets — AI Finance Assistant</title>
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<div class="app-shell">
+  <nav class="sidebar">
+    <div class="brand">Ledger<span>.</span></div>
+    <div class="tagline">AI Finance Assistant</div>
+    <div class="nav-links">
+      <a href="dashboard.html">Dashboard</a>
+      <a href="transactions.html">Transactions</a>
+      <a href="budgets.html" class="active">Budgets</a>
+      <a href="insights.html">Insights</a>
+      <a href="chatbot.html">Chatbot</a>
+    </div>
+    <div class="sidebar-footer">
+      <span class="user-name" id="sidebar-user">—</span>
+      <a href="#" id="logout-link">Sign out</a>
+    </div>
+  </nav>
+
+  <main class="main">
+    <div class="page-header">
+      <h1>Budgets</h1>
+      <div class="sub">Set monthly limits overall or per category, and track usage as you spend.</div>
+    </div>
+
+    <form class="budget-form" id="budget-form">
+      <div class="field">
+        <label for="budget-month">Month</label>
+        <input type="month" id="budget-month" required />
+      </div>
+      <div class="field">
+        <label for="budget-category">Category (optional)</label>
+        <select id="budget-category">
+          <option value="">Overall</option>
+          <option>Food</option>
+          <option>Transport</option>
+          <option>Shopping</option>
+          <option>Bills</option>
+          <option>Entertainment</option>
+          <option>Health</option>
+          <option>Education</option>
+          <option>Other</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="budget-limit">Limit (₹)</label>
+        <input type="number" id="budget-limit" min="1" step="0.01" required />
+      </div>
+      <button type="submit">Set budget</button>
+    </form>
+
+    <div class="section-title">This month's budgets</div>
+    <div id="budget-list"><div class="empty-note">Loading…</div></div>
+  </main>
+</div>
+
+<script src="assets/js/api.js"></script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/budgets.js"></script>
+</body>
+</html>

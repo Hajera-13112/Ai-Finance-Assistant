@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "name": "Hajera Tabassum",
+      "email": "hajera13112@gmail.com",
+      "password_hash": "$2b$12$EdJ8ahhPbpsaoPldEqfXFeHnq/8wOH.IAqmxFz.Ny4Z8QcOp66mAC",
+      "created_at": "2026-09-13T15:13:26.819075"
+    }
+  ],
+  "transactions": [
+    {
+      "transaction_id": 1,
+      "user_id": 1,
+      "date": "2026-09-01",
+      "description": "Salary",
+      "amount": 15000.0,
+      "type": "income",
+      "category": "Salary",
+      "created_at": "2026-09-13T15:14:21.120158"
+    },
+    {
+      "transaction_id": 2,
+      "user_id": 1,
+      "date": "2026-09-01",
+      "description": "swiggy",
+      "amount": 350.0,
+      "type": "expense",
+      "category": "Food",
+      "created_at": "2026-09-13T15:14:56.646245"
+    },
+    {
+      "transaction_id": 3,
+      "user_id": 1,
+      "date": "2026-09-02",
+      "description": "Auto charges",
+      "amount": 50.0,
+      "type": "expense",
+      "category": "Transport",
+      "created_at": "2026-09-13T15:15:45.125295"
+    },
+    {
+      "transaction_id": 4,
+      "user_id": 1,
+      "date": "2026-09-13",
+      "description": "Pocket money",
+      "amount": 5000.0,
+      "type": "income",
+      "category": "Salary",
+      "created_at": "2026-09-13T15:16:09.874035"
+    }
+  ],
+  "budgets": [],
+  "predictions": [],
+  "insights": [
+    {
+      "insight_id": 1,
+      "user_id": 1,
+      "insight_text": "Not enough data yet to generate meaningful insights. Keep logging transactions and check back soon.",
+      "created_at": "2026-09-13T15:13:40.529236"
+    }
+  ],
+  "counters": {
+    "users": 1,
+    "transactions": 4,
+    "budgets": 0,
+    "predictions": 0,
+    "insights": 1
+  }
+}

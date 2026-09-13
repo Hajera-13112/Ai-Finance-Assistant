@@ -1,0 +1,687 @@
+transaction_id,date,description,amount,transaction_type,category,merchant
+1,2025-01-03,broadband internet bill 966,966.3,expense,Bills,broadband
+2,2025-01-03,auto rickshaw fare 1859,1859.45,expense,Transport,auto
+3,2025-01-04,car service 1072,1072.15,expense,Transport,car
+4,2025-01-04,zomato lunch order 324,324.87,expense,Food,zomato
+5,2025-01-04,street food vendor 302,302.7,expense,Food,street
+6,2025-01-04,college tuition fee 6903,6903.37,expense,Education,college
+7,2025-01-05,dominos pizza 861,861.92,expense,Food,dominos
+8,2025-01-05,health insurance premium 904,904.08,expense,Health,health
+9,2025-01-06,ola cab 968,968.42,expense,Transport,ola
+10,2025-01-06,dental checkup 3078,3078.07,expense,Health,dental
+11,2025-01-08,parking fee 224,224.64,expense,Transport,parking
+12,2025-01-08,concert tickets 907,907.87,expense,Entertainment,concert
+13,2025-01-08,uber ride 1663,1663.32,expense,Transport,uber
+14,2025-01-09,metro card recharge 2170,2170.21,expense,Transport,metro
+15,2025-01-09,book purchase 6965,6965.13,expense,Education,book
+16,2025-01-10,footwear purchase 2971,2971.11,expense,Shopping,footwear
+17,2025-01-10,movie tickets bookmyshow 952,952.39,expense,Entertainment,movie
+18,2025-01-11,mobile recharge jio 2854,2854.22,expense,Bills,mobile
+19,2025-01-12,rent payment 5080,5080.68,expense,Bills,rent
+20,2025-01-12,starbucks coffee 1000,1000.42,expense,Food,starbucks
+21,2025-01-13,book purchase 1272,1272.97,expense,Education,book
+22,2025-01-13,gym membership fee 3328,3328.88,expense,Health,gym
+23,2025-01-14,gift purchase 831,831.4,expense,Other,gift
+24,2025-01-14,maintenance society bill 3303,3303.02,expense,Bills,maintenance
+25,2025-01-14,exam registration fee 6171,6171.19,expense,Education,exam
+26,2025-01-15,furniture store 4049,4049.42,expense,Shopping,furniture
+27,2025-01-18,ajio order 4851,4851.99,expense,Shopping,ajio
+28,2025-01-19,exam registration fee 14942,14942.98,expense,Education,exam
+29,2025-01-19,netflix subscription 1052,1052.08,expense,Entertainment,netflix
+30,2025-01-19,auto rickshaw fare 2215,2215.43,expense,Transport,auto
+31,2025-01-20,doctor consultation fee 1573,1573.48,expense,Health,doctor
+32,2025-01-20,decathlon sports gear 225,225.31,expense,Shopping,decathlon
+33,2025-01-21,furniture store 7318,7318.5,expense,Shopping,furniture
+34,2025-01-21,amazon prime subscription 313,313.13,expense,Entertainment,amazon
+35,2025-01-22,supermarket vegetables 443,443.05,expense,Food,supermarket
+36,2025-01-25,amazon prime subscription 180,180.15,expense,Entertainment,amazon
+37,2025-01-25,ola cab 1837,1837.81,expense,Transport,ola
+38,2025-01-27,myntra clothes 5346,5346.06,expense,Shopping,myntra
+39,2025-01-27,electronics store 4315,4315.86,expense,Shopping,electronics
+40,2025-01-27,college tuition fee 13955,13955.03,expense,Education,college
+41,2025-01-27,gas cylinder booking 2484,2484.1,expense,Bills,gas
+42,2025-01-28,home repair 406,406.96,expense,Other,home
+43,2025-01-28,water bill 2127,2127.8,expense,Bills,water
+44,2025-01-29,broadband internet bill 192,192.07,expense,Bills,broadband
+45,2025-01-29,starbucks coffee 155,155.49,expense,Food,starbucks
+46,2025-01-29,grocery store bigbasket 159,159.36,expense,Food,grocery
+47,2025-01-29,gas cylinder booking 4063,4063.52,expense,Bills,gas
+48,2025-01-30,decathlon sports gear 2095,2095.38,expense,Shopping,decathlon
+49,2025-01-31,college tuition fee 1686,1686.59,expense,Education,college
+50,2025-01-31,book purchase 6526,6526.61,expense,Education,book
+51,2025-01-31,cash withdrawal atm 2036,2036.43,expense,Other,cash
+52,2025-02-03,doctor consultation fee 1355,1355.98,expense,Health,doctor
+53,2025-02-03,maintenance society bill 2774,2774.39,expense,Bills,maintenance
+54,2025-02-03,college tuition fee 4394,4394.61,expense,Education,college
+55,2025-02-04,rapido bike 2025,2025.81,expense,Transport,rapido
+56,2025-02-05,uber ride 1640,1640.8,expense,Transport,uber
+57,2025-02-05,zomato lunch order 1117,1117.53,expense,Food,zomato
+58,2025-02-05,mobile recharge jio 2527,2527.52,expense,Bills,mobile
+59,2025-02-05,donation charity 2600,2600.72,expense,Other,donation
+60,2025-02-07,online course udemy 14784,14784.04,expense,Education,online
+61,2025-02-08,bank service charge 1297,1297.87,expense,Other,bank
+62,2025-02-08,gift purchase 610,610.2,expense,Other,gift
+63,2025-02-09,supermarket vegetables 904,904.03,expense,Food,supermarket
+64,2025-02-11,swiggy dinner 734,734.28,expense,Food,swiggy
+65,2025-02-11,amazon order 7694,7694.08,expense,Shopping,amazon
+66,2025-02-13,car service 197,197.86,expense,Transport,car
+67,2025-02-14,online course udemy 14141,14141.46,expense,Education,online
+68,2025-02-15,electricity bill payment 3773,3773.38,expense,Bills,electricity
+69,2025-02-15,school fees payment 8879,8879.98,expense,Education,school
+70,2025-02-15,health insurance premium 1140,1140.66,expense,Health,health
+71,2025-02-15,gym membership fee 1438,1438.23,expense,Health,gym
+72,2025-02-16,hotstar subscription 541,541.96,expense,Entertainment,hotstar
+73,2025-02-19,ola cab 1357,1357.96,expense,Transport,ola
+74,2025-02-19,spotify premium 1406,1406.5,expense,Entertainment,spotify
+75,2025-02-19,metro card recharge 942,942.73,expense,Transport,metro
+76,2025-02-20,bank service charge 1854,1854.45,expense,Other,bank
+77,2025-02-21,bakery order 995,995.16,expense,Food,bakery
+78,2025-02-21,movie tickets bookmyshow 1414,1414.44,expense,Entertainment,movie
+79,2025-02-21,electronics store 1100,1100.34,expense,Shopping,electronics
+80,2025-02-21,toll payment fastag 413,413.96,expense,Transport,toll
+81,2025-02-22,rent payment 1341,1341.04,expense,Bills,rent
+82,2025-02-22,hotstar subscription 450,450.82,expense,Entertainment,hotstar
+83,2025-02-25,netflix subscription 103,103.97,expense,Entertainment,netflix
+84,2025-02-25,electronics store 1460,1460.34,expense,Shopping,electronics
+85,2025-02-25,pet supplies 1704,1704.68,expense,Other,pet
+86,2025-02-28,grocery store bigbasket 732,732.41,expense,Food,grocery
+87,2025-03-01,college tuition fee 914,914.88,expense,Education,college
+88,2025-03-02,grocery store bigbasket 315,315.29,expense,Food,grocery
+89,2025-03-02,water bill 2219,2219.02,expense,Bills,water
+90,2025-03-03,exam registration fee 11317,11317.32,expense,Education,exam
+91,2025-03-03,mobile recharge jio 5860,5860.81,expense,Bills,mobile
+92,2025-03-03,ajio order 393,393.33,expense,Shopping,ajio
+93,2025-03-03,diagnostic lab test 4040,4040.84,expense,Health,diagnostic
+94,2025-03-04,spotify premium 1202,1202.11,expense,Entertainment,spotify
+95,2025-03-06,cafe coffee day 329,329.13,expense,Food,cafe
+96,2025-03-06,salon haircut 950,950.31,expense,Other,salon
+97,2025-03-06,broadband internet bill 288,288.44,expense,Bills,broadband
+98,2025-03-07,book purchase 4395,4395.46,expense,Education,book
+99,2025-03-09,diagnostic lab test 3445,3445.66,expense,Health,diagnostic
+100,2025-03-09,pharmacy medicines 709,709.41,expense,Health,pharmacy
+101,2025-03-10,electronics store 498,498.41,expense,Shopping,electronics
+102,2025-03-10,book purchase 11009,11009.61,expense,Education,book
+103,2025-03-11,exam registration fee 14768,14768.27,expense,Education,exam
+104,2025-03-11,parking fee 2251,2251.78,expense,Transport,parking
+105,2025-03-12,netflix subscription 1092,1092.01,expense,Entertainment,netflix
+106,2025-03-14,rent payment 2673,2673.09,expense,Bills,rent
+107,2025-03-14,dental checkup 3367,3367.43,expense,Health,dental
+108,2025-03-14,bus ticket 1282,1282.59,expense,Transport,bus
+109,2025-03-14,book purchase 6215,6215.29,expense,Education,book
+110,2025-03-15,shopping mall 3479,3479.48,expense,Shopping,shopping
+111,2025-03-15,school fees payment 11297,11297.58,expense,Education,school
+112,2025-03-16,amusement park entry 866,866.66,expense,Entertainment,amusement
+113,2025-03-18,amazon prime subscription 701,701.27,expense,Entertainment,amazon
+114,2025-03-18,yoga class fee 2292,2292.66,expense,Health,yoga
+115,2025-03-19,gift purchase 1993,1993.61,expense,Other,gift
+116,2025-03-20,doctor consultation fee 4119,4119.35,expense,Health,doctor
+117,2025-03-20,gas cylinder booking 1464,1464.15,expense,Bills,gas
+118,2025-03-21,amazon order 560,560.47,expense,Shopping,amazon
+119,2025-03-22,rapido bike 1053,1053.67,expense,Transport,rapido
+120,2025-03-22,credit card bill payment 3042,3042.11,expense,Bills,credit
+121,2025-03-22,mobile recharge jio 3987,3987.94,expense,Bills,mobile
+122,2025-03-25,mobile recharge jio 4854,4854.04,expense,Bills,mobile
+123,2025-03-25,cash withdrawal atm 1694,1694.35,expense,Other,cash
+124,2025-03-25,rapido bike 359,359.35,expense,Transport,rapido
+125,2025-03-26,yoga class fee 3121,3121.36,expense,Health,yoga
+126,2025-03-26,coursera subscription 13630,13630.76,expense,Education,coursera
+127,2025-03-26,gift purchase 2243,2243.78,expense,Other,gift
+128,2025-03-27,bank service charge 2267,2267.74,expense,Other,bank
+129,2025-03-27,hotstar subscription 977,977.07,expense,Entertainment,hotstar
+130,2025-03-27,hotstar subscription 207,207.55,expense,Entertainment,hotstar
+131,2025-03-28,gas cylinder booking 2114,2114.71,expense,Bills,gas
+132,2025-03-28,petrol pump fuel 402,402.55,expense,Transport,petrol
+133,2025-03-29,shopping mall 700,700.99,expense,Shopping,shopping
+134,2025-03-29,book purchase 8276,8276.38,expense,Education,book
+135,2025-03-29,online course udemy 3340,3340.47,expense,Education,online
+136,2025-03-30,coursera subscription 8885,8885.97,expense,Education,coursera
+137,2025-03-30,supermarket vegetables 506,506.03,expense,Food,supermarket
+138,2025-03-30,grocery store bigbasket 414,414.45,expense,Food,grocery
+139,2025-03-31,exam registration fee 11288,11288.48,expense,Education,exam
+140,2025-03-31,dth recharge 1433,1433.62,expense,Bills,dth
+141,2025-03-31,coaching class fee 726,726.66,expense,Education,coaching
+142,2025-04-01,school fees payment 2726,2726.16,expense,Education,school
+143,2025-04-01,gift purchase 2943,2943.13,expense,Other,gift
+144,2025-04-02,mcdonalds meal 742,742.92,expense,Food,mcdonalds
+145,2025-04-02,zomato lunch order 799,799.88,expense,Food,zomato
+146,2025-04-02,decathlon sports gear 1617,1617.49,expense,Shopping,decathlon
+147,2025-04-02,amusement park entry 557,557.62,expense,Entertainment,amusement
+148,2025-04-03,dental checkup 3841,3841.96,expense,Health,dental
+149,2025-04-03,book purchase 11354,11354.54,expense,Education,book
+150,2025-04-03,book purchase 12573,12573.19,expense,Education,book
+151,2025-04-04,food delivery 684,684.15,expense,Food,food
+152,2025-04-04,gym membership fee 3303,3303.2,expense,Health,gym
+153,2025-04-04,swiggy dinner 1143,1143.57,expense,Food,swiggy
+154,2025-04-05,supermarket vegetables 250,250.67,expense,Food,supermarket
+155,2025-04-06,miscellaneous expense 1713,1713.71,expense,Other,miscellaneous
+156,2025-04-07,bank service charge 2312,2312.35,expense,Other,bank
+157,2025-04-08,petrol pump fuel 2412,2412.86,expense,Transport,petrol
+158,2025-04-10,restaurant bill 724,724.89,expense,Food,restaurant
+159,2025-04-10,coaching class fee 14139,14139.62,expense,Education,coaching
+160,2025-04-10,water bill 3613,3613.77,expense,Bills,water
+161,2025-04-10,water bill 4228,4228.58,expense,Bills,water
+162,2025-04-11,car service 1963,1963.11,expense,Transport,car
+163,2025-04-11,diagnostic lab test 3358,3358.38,expense,Health,diagnostic
+164,2025-04-13,pharmacy medicines 4270,4270.44,expense,Health,pharmacy
+165,2025-04-13,miscellaneous expense 1328,1328.89,expense,Other,miscellaneous
+166,2025-04-13,yoga class fee 3580,3580.45,expense,Health,yoga
+167,2025-04-13,college tuition fee 11086,11086.79,expense,Education,college
+168,2025-04-14,home repair 1334,1334.94,expense,Other,home
+169,2025-04-14,concert tickets 1292,1292.25,expense,Entertainment,concert
+170,2025-04-16,donation charity 2263,2263.91,expense,Other,donation
+171,2025-04-16,book purchase 721,721.89,expense,Education,book
+172,2025-04-17,decathlon sports gear 1854,1854.53,expense,Shopping,decathlon
+173,2025-04-17,concert tickets 490,490.8,expense,Entertainment,concert
+174,2025-04-18,netflix subscription 822,822.79,expense,Entertainment,netflix
+175,2025-04-18,water bill 1561,1561.93,expense,Bills,water
+176,2025-04-18,coaching class fee 8461,8461.09,expense,Education,coaching
+177,2025-04-18,dth recharge 3928,3928.53,expense,Bills,dth
+178,2025-04-19,cash withdrawal atm 324,324.51,expense,Other,cash
+179,2025-04-19,credit card bill payment 4196,4196.95,expense,Bills,credit
+180,2025-04-19,concert tickets 762,762.04,expense,Entertainment,concert
+181,2025-04-20,diagnostic lab test 4983,4983.66,expense,Health,diagnostic
+182,2025-04-20,dental checkup 3558,3558.85,expense,Health,dental
+183,2025-04-20,gaming purchase steam 451,451.22,expense,Entertainment,gaming
+184,2025-04-20,metro card recharge 809,809.4,expense,Transport,metro
+185,2025-04-21,shopping mall 1887,1887.8,expense,Shopping,shopping
+186,2025-04-21,bank service charge 2187,2187.53,expense,Other,bank
+187,2025-04-21,movie tickets bookmyshow 1265,1265.51,expense,Entertainment,movie
+188,2025-04-21,amazon prime subscription 604,604.59,expense,Entertainment,amazon
+189,2025-04-22,food delivery 678,678.23,expense,Food,food
+190,2025-04-22,netflix subscription 1463,1463.99,expense,Entertainment,netflix
+191,2025-04-23,spotify premium 992,992.66,expense,Entertainment,spotify
+192,2025-04-23,miscellaneous expense 2624,2624.52,expense,Other,miscellaneous
+193,2025-04-23,hotstar subscription 769,769.68,expense,Entertainment,hotstar
+194,2025-04-23,hospital bill 4832,4832.66,expense,Health,hospital
+195,2025-04-24,miscellaneous expense 2475,2475.24,expense,Other,miscellaneous
+196,2025-04-24,coaching class fee 1389,1389.01,expense,Education,coaching
+197,2025-04-26,electronics store 864,864.41,expense,Shopping,electronics
+198,2025-04-27,toll payment fastag 1918,1918.18,expense,Transport,toll
+199,2025-04-28,maintenance society bill 2375,2375.21,expense,Bills,maintenance
+200,2025-04-28,bank service charge 2587,2587.49,expense,Other,bank
+201,2025-04-28,book purchase 8658,8658.85,expense,Education,book
+202,2025-04-28,supermarket vegetables 1155,1155.32,expense,Food,supermarket
+203,2025-04-30,gas cylinder booking 4013,4013.5,expense,Bills,gas
+204,2025-05-01,mobile recharge jio 3379,3379.15,expense,Bills,mobile
+205,2025-05-02,mcdonalds meal 584,584.56,expense,Food,mcdonalds
+206,2025-05-03,bank service charge 146,146.29,expense,Other,bank
+207,2025-05-03,gaming purchase steam 1083,1083.89,expense,Entertainment,gaming
+208,2025-05-03,miscellaneous expense 2077,2077.79,expense,Other,miscellaneous
+209,2025-05-03,amazon prime subscription 694,694.62,expense,Entertainment,amazon
+210,2025-05-04,mobile recharge jio 5464,5464.21,expense,Bills,mobile
+211,2025-05-04,flipkart purchase 665,665.18,expense,Shopping,flipkart
+212,2025-05-04,gaming purchase steam 714,714.25,expense,Entertainment,gaming
+213,2025-05-04,bank service charge 2114,2114.21,expense,Other,bank
+214,2025-05-05,home repair 287,287.3,expense,Other,home
+215,2025-05-05,mcdonalds meal 902,902.68,expense,Food,mcdonalds
+216,2025-05-06,netflix subscription 226,226.95,expense,Entertainment,netflix
+217,2025-05-06,bakery order 999,999.99,expense,Food,bakery
+218,2025-05-06,dominos pizza 606,606.96,expense,Food,dominos
+219,2025-05-06,bank service charge 585,585.39,expense,Other,bank
+220,2025-05-07,school fees payment 12269,12269.4,expense,Education,school
+221,2025-05-07,rapido bike 889,889.46,expense,Transport,rapido
+222,2025-05-07,dental checkup 3400,3400.15,expense,Health,dental
+223,2025-05-07,footwear purchase 3410,3410.83,expense,Shopping,footwear
+224,2025-05-08,amusement park entry 1238,1238.81,expense,Entertainment,amusement
+225,2025-05-08,cafe coffee day 178,178.63,expense,Food,cafe
+226,2025-05-08,concert tickets 261,261.41,expense,Entertainment,concert
+227,2025-05-09,bakery order 1053,1053.69,expense,Food,bakery
+228,2025-05-09,pet supplies 209,209.9,expense,Other,pet
+229,2025-05-09,yoga class fee 3183,3183.23,expense,Health,yoga
+230,2025-05-11,spotify premium 1398,1398.67,expense,Entertainment,spotify
+231,2025-05-12,miscellaneous expense 135,135.16,expense,Other,miscellaneous
+232,2025-05-12,mobile recharge jio 1967,1967.89,expense,Bills,mobile
+233,2025-05-12,street food vendor 536,536.95,expense,Food,street
+234,2025-05-13,rapido bike 2369,2369.24,expense,Transport,rapido
+235,2025-05-14,bank service charge 1551,1551.17,expense,Other,bank
+236,2025-05-15,coursera subscription 7392,7392.74,expense,Education,coursera
+237,2025-05-15,donation charity 1397,1397.52,expense,Other,donation
+238,2025-05-16,college tuition fee 13851,13851.46,expense,Education,college
+239,2025-05-17,flipkart purchase 2354,2354.73,expense,Shopping,flipkart
+240,2025-05-17,book purchase 14033,14033.45,expense,Education,book
+241,2025-05-17,netflix subscription 495,495.26,expense,Entertainment,netflix
+242,2025-05-17,hotstar subscription 1311,1311.23,expense,Entertainment,hotstar
+243,2025-05-18,salon haircut 1030,1030.7,expense,Other,salon
+244,2025-05-18,coaching class fee 14012,14012.93,expense,Education,coaching
+245,2025-05-18,broadband internet bill 3495,3495.02,expense,Bills,broadband
+246,2025-05-19,online course udemy 4977,4977.19,expense,Education,online
+247,2025-05-20,coaching class fee 14829,14829.69,expense,Education,coaching
+248,2025-05-20,decathlon sports gear 7725,7725.63,expense,Shopping,decathlon
+249,2025-05-20,furniture store 7729,7729.76,expense,Shopping,furniture
+250,2025-05-21,rapido bike 276,276.29,expense,Transport,rapido
+251,2025-05-21,cash withdrawal atm 2181,2181.21,expense,Other,cash
+252,2025-05-22,flipkart purchase 3862,3862.03,expense,Shopping,flipkart
+253,2025-05-22,concert tickets 972,972.19,expense,Entertainment,concert
+254,2025-05-22,school fees payment 1480,1480.64,expense,Education,school
+255,2025-05-23,book purchase 9513,9513.95,expense,Education,book
+256,2025-05-23,cash withdrawal atm 1871,1871.51,expense,Other,cash
+257,2025-05-24,amazon prime subscription 1145,1145.22,expense,Entertainment,amazon
+258,2025-05-25,auto rickshaw fare 1768,1768.61,expense,Transport,auto
+259,2025-05-25,rapido bike 440,440.92,expense,Transport,rapido
+260,2025-05-25,netflix subscription 163,163.43,expense,Entertainment,netflix
+261,2025-05-27,dental checkup 2238,2238.83,expense,Health,dental
+262,2025-05-27,maintenance society bill 2560,2560.5,expense,Bills,maintenance
+263,2025-05-28,myntra clothes 815,815.95,expense,Shopping,myntra
+264,2025-05-29,dth recharge 5490,5490.05,expense,Bills,dth
+265,2025-05-29,shopping mall 3796,3796.97,expense,Shopping,shopping
+266,2025-05-29,hotstar subscription 456,456.71,expense,Entertainment,hotstar
+267,2025-05-31,spotify premium 202,202.48,expense,Entertainment,spotify
+268,2025-05-31,health insurance premium 3248,3248.85,expense,Health,health
+269,2025-05-31,school fees payment 3976,3976.44,expense,Education,school
+270,2025-06-01,credit card bill payment 5142,5142.01,expense,Bills,credit
+271,2025-06-01,metro card recharge 971,971.97,expense,Transport,metro
+272,2025-06-02,gaming purchase steam 129,129.74,expense,Entertainment,gaming
+273,2025-06-02,book purchase 419,419.04,expense,Education,book
+274,2025-06-04,bank service charge 2338,2338.44,expense,Other,bank
+275,2025-06-04,rent payment 1431,1431.18,expense,Bills,rent
+276,2025-06-04,gas cylinder booking 4114,4114.92,expense,Bills,gas
+277,2025-06-04,flipkart purchase 7246,7246.55,expense,Shopping,flipkart
+278,2025-06-06,cash withdrawal atm 1759,1759.74,expense,Other,cash
+279,2025-06-06,flipkart purchase 7295,7295.1,expense,Shopping,flipkart
+280,2025-06-07,college tuition fee 3251,3251.68,expense,Education,college
+281,2025-06-07,health insurance premium 4177,4177.79,expense,Health,health
+282,2025-06-08,bank service charge 2252,2252.35,expense,Other,bank
+283,2025-06-08,doctor consultation fee 2421,2421.41,expense,Health,doctor
+284,2025-06-10,credit card bill payment 5808,5808.53,expense,Bills,credit
+285,2025-06-11,doctor consultation fee 3984,3984.81,expense,Health,doctor
+286,2025-06-11,restaurant bill 680,680.96,expense,Food,restaurant
+287,2025-06-11,salon haircut 2034,2034.84,expense,Other,salon
+288,2025-06-11,amusement park entry 1251,1251.21,expense,Entertainment,amusement
+289,2025-06-12,auto rickshaw fare 607,607.54,expense,Transport,auto
+290,2025-06-12,supermarket vegetables 1070,1070.34,expense,Food,supermarket
+291,2025-06-13,gym membership fee 3291,3291.11,expense,Health,gym
+292,2025-06-13,bank service charge 1965,1965.26,expense,Other,bank
+293,2025-06-13,petrol pump fuel 142,142.01,expense,Transport,petrol
+294,2025-06-13,restaurant bill 1195,1195.44,expense,Food,restaurant
+295,2025-06-16,ajio order 3738,3738.42,expense,Shopping,ajio
+296,2025-06-17,exam registration fee 11211,11211.35,expense,Education,exam
+297,2025-06-17,ajio order 5308,5308.39,expense,Shopping,ajio
+298,2025-06-17,pet supplies 2820,2820.21,expense,Other,pet
+299,2025-06-17,netflix subscription 1066,1066.08,expense,Entertainment,netflix
+300,2025-06-18,home repair 2854,2854.14,expense,Other,home
+301,2025-06-19,auto rickshaw fare 937,937.32,expense,Transport,auto
+302,2025-06-19,pharmacy medicines 2080,2080.98,expense,Health,pharmacy
+303,2025-06-20,rapido bike 256,256.43,expense,Transport,rapido
+304,2025-06-21,swiggy dinner 961,961.21,expense,Food,swiggy
+305,2025-06-22,shopping mall 735,735.16,expense,Shopping,shopping
+306,2025-06-23,broadband internet bill 4906,4906.36,expense,Bills,broadband
+307,2025-06-23,rent payment 4680,4680.06,expense,Bills,rent
+308,2025-06-23,restaurant bill 1041,1041.41,expense,Food,restaurant
+309,2025-06-23,myntra clothes 4413,4413.68,expense,Shopping,myntra
+310,2025-06-24,auto rickshaw fare 2170,2170.13,expense,Transport,auto
+311,2025-06-25,grocery store bigbasket 964,964.78,expense,Food,grocery
+312,2025-06-26,pharmacy medicines 995,995.09,expense,Health,pharmacy
+313,2025-06-28,exam registration fee 1970,1970.64,expense,Education,exam
+314,2025-06-30,salon haircut 1564,1564.05,expense,Other,salon
+315,2025-06-30,rapido bike 1274,1274.48,expense,Transport,rapido
+316,2025-06-30,food delivery 957,957.21,expense,Food,food
+317,2025-07-01,hotstar subscription 1000,1000.32,expense,Entertainment,hotstar
+318,2025-07-01,swiggy dinner 1198,1198.42,expense,Food,swiggy
+319,2025-07-01,coaching class fee 10385,10385.63,expense,Education,coaching
+320,2025-07-01,home repair 266,266.8,expense,Other,home
+321,2025-07-03,flipkart purchase 1184,1184.29,expense,Shopping,flipkart
+322,2025-07-03,diagnostic lab test 4973,4973.94,expense,Health,diagnostic
+323,2025-07-04,hotstar subscription 807,807.28,expense,Entertainment,hotstar
+324,2025-07-04,online course udemy 11958,11958.51,expense,Education,online
+325,2025-07-04,auto rickshaw fare 1637,1637.76,expense,Transport,auto
+326,2025-07-04,credit card bill payment 2791,2791.6,expense,Bills,credit
+327,2025-07-05,book purchase 12463,12463.06,expense,Education,book
+328,2025-07-06,school fees payment 1697,1697.76,expense,Education,school
+329,2025-07-06,book purchase 10077,10077.09,expense,Education,book
+330,2025-07-06,hospital bill 3481,3481.08,expense,Health,hospital
+331,2025-07-07,ola cab 2084,2084.48,expense,Transport,ola
+332,2025-07-07,parking fee 268,268.51,expense,Transport,parking
+333,2025-07-07,hospital bill 2848,2848.4,expense,Health,hospital
+334,2025-07-08,doctor consultation fee 2142,2142.42,expense,Health,doctor
+335,2025-07-08,coursera subscription 13762,13762.9,expense,Education,coursera
+336,2025-07-08,restaurant bill 752,752.46,expense,Food,restaurant
+337,2025-07-08,doctor consultation fee 2952,2952.9,expense,Health,doctor
+338,2025-07-09,decathlon sports gear 1949,1949.11,expense,Shopping,decathlon
+339,2025-07-11,doctor consultation fee 3848,3848.64,expense,Health,doctor
+340,2025-07-11,credit card bill payment 5094,5094.16,expense,Bills,credit
+341,2025-07-12,supermarket vegetables 1120,1120.57,expense,Food,supermarket
+342,2025-07-12,netflix subscription 351,351.76,expense,Entertainment,netflix
+343,2025-07-12,concert tickets 590,590.78,expense,Entertainment,concert
+344,2025-07-12,myntra clothes 4617,4617.3,expense,Shopping,myntra
+345,2025-07-13,petrol pump fuel 1860,1860.19,expense,Transport,petrol
+346,2025-07-13,zomato lunch order 915,915.65,expense,Food,zomato
+347,2025-07-13,credit card bill payment 2606,2606.02,expense,Bills,credit
+348,2025-07-14,footwear purchase 2630,2630.77,expense,Shopping,footwear
+349,2025-07-14,doctor consultation fee 4434,4434.21,expense,Health,doctor
+350,2025-07-15,amazon order 5456,5456.96,expense,Shopping,amazon
+351,2025-07-16,pet supplies 1482,1482.7,expense,Other,pet
+352,2025-07-16,pet supplies 855,855.84,expense,Other,pet
+353,2025-07-17,train ticket irctc 1091,1091.89,expense,Transport,train
+354,2025-07-17,hotstar subscription 837,837.23,expense,Entertainment,hotstar
+355,2025-07-17,netflix subscription 407,407.95,expense,Entertainment,netflix
+356,2025-07-17,swiggy dinner 308,308.95,expense,Food,swiggy
+357,2025-07-18,electronics store 2457,2457.69,expense,Shopping,electronics
+358,2025-07-21,college tuition fee 2199,2199.03,expense,Education,college
+359,2025-07-21,maintenance society bill 3418,3418.53,expense,Bills,maintenance
+360,2025-07-21,doctor consultation fee 2075,2075.8,expense,Health,doctor
+361,2025-07-23,cafe coffee day 1111,1111.7,expense,Food,cafe
+362,2025-07-23,diagnostic lab test 2930,2930.99,expense,Health,diagnostic
+363,2025-07-23,book purchase 1993,1993.05,expense,Education,book
+364,2025-07-25,decathlon sports gear 6689,6689.8,expense,Shopping,decathlon
+365,2025-07-25,doctor consultation fee 2268,2268.05,expense,Health,doctor
+366,2025-07-27,exam registration fee 6186,6186.61,expense,Education,exam
+367,2025-07-29,concert tickets 409,409.42,expense,Entertainment,concert
+368,2025-07-29,flipkart purchase 4181,4181.77,expense,Shopping,flipkart
+369,2025-07-29,toll payment fastag 1289,1289.58,expense,Transport,toll
+370,2025-07-30,hospital bill 1295,1295.9,expense,Health,hospital
+371,2025-07-30,electronics store 1738,1738.72,expense,Shopping,electronics
+372,2025-07-31,flipkart purchase 1581,1581.74,expense,Shopping,flipkart
+373,2025-07-31,home repair 2275,2275.62,expense,Other,home
+374,2025-07-31,salon haircut 2599,2599.53,expense,Other,salon
+375,2025-07-31,hospital bill 2282,2282.85,expense,Health,hospital
+376,2025-08-01,bank service charge 2399,2399.17,expense,Other,bank
+377,2025-08-01,grocery store bigbasket 648,648.22,expense,Food,grocery
+378,2025-08-01,hotstar subscription 732,732.13,expense,Entertainment,hotstar
+379,2025-08-03,movie tickets bookmyshow 1002,1002.18,expense,Entertainment,movie
+380,2025-08-03,car service 1497,1497.38,expense,Transport,car
+381,2025-08-04,cash withdrawal atm 1376,1376.71,expense,Other,cash
+382,2025-08-04,rent payment 3689,3689.28,expense,Bills,rent
+383,2025-08-04,amazon order 3714,3714.08,expense,Shopping,amazon
+384,2025-08-05,toll payment fastag 1625,1625.93,expense,Transport,toll
+385,2025-08-05,starbucks coffee 872,872.54,expense,Food,starbucks
+386,2025-08-06,footwear purchase 3108,3108.25,expense,Shopping,footwear
+387,2025-08-06,amusement park entry 671,671.69,expense,Entertainment,amusement
+388,2025-08-06,pharmacy medicines 3977,3977.75,expense,Health,pharmacy
+389,2025-08-07,train ticket irctc 263,263.43,expense,Transport,train
+390,2025-08-07,book purchase 4004,4004.34,expense,Education,book
+391,2025-08-08,footwear purchase 835,835.72,expense,Shopping,footwear
+392,2025-08-08,footwear purchase 2619,2619.81,expense,Shopping,footwear
+393,2025-08-08,college tuition fee 9047,9047.11,expense,Education,college
+394,2025-08-08,bus ticket 1410,1410.54,expense,Transport,bus
+395,2025-08-09,furniture store 928,928.93,expense,Shopping,furniture
+396,2025-08-09,exam registration fee 5618,5618.87,expense,Education,exam
+397,2025-08-10,spotify premium 1431,1431.59,expense,Entertainment,spotify
+398,2025-08-10,yoga class fee 1081,1081.23,expense,Health,yoga
+399,2025-08-11,flipkart purchase 2507,2507.18,expense,Shopping,flipkart
+400,2025-08-13,bakery order 457,457.18,expense,Food,bakery
+401,2025-08-13,ajio order 1403,1403.17,expense,Shopping,ajio
+402,2025-08-13,myntra clothes 5825,5825.23,expense,Shopping,myntra
+403,2025-08-13,mcdonalds meal 488,488.02,expense,Food,mcdonalds
+404,2025-08-14,bank service charge 2269,2269.55,expense,Other,bank
+405,2025-08-15,maintenance society bill 1549,1549.14,expense,Bills,maintenance
+406,2025-08-15,donation charity 1135,1135.13,expense,Other,donation
+407,2025-08-15,home repair 2319,2319.84,expense,Other,home
+408,2025-08-16,college tuition fee 12308,12308.3,expense,Education,college
+409,2025-08-16,electronics store 607,607.0,expense,Shopping,electronics
+410,2025-08-16,salon haircut 1685,1685.9,expense,Other,salon
+411,2025-08-18,bus ticket 237,237.17,expense,Transport,bus
+412,2025-08-18,electronics store 3704,3704.69,expense,Shopping,electronics
+413,2025-08-18,ajio order 915,915.37,expense,Shopping,ajio
+414,2025-08-18,dth recharge 5325,5325.08,expense,Bills,dth
+415,2025-08-20,mcdonalds meal 642,642.25,expense,Food,mcdonalds
+416,2025-08-20,credit card bill payment 5967,5967.97,expense,Bills,credit
+417,2025-08-20,gym membership fee 286,286.71,expense,Health,gym
+418,2025-08-22,myntra clothes 498,498.76,expense,Shopping,myntra
+419,2025-08-22,gift purchase 2288,2288.58,expense,Other,gift
+420,2025-08-23,cash withdrawal atm 2722,2722.28,expense,Other,cash
+421,2025-08-23,restaurant bill 321,321.53,expense,Food,restaurant
+422,2025-08-23,furniture store 7533,7533.76,expense,Shopping,furniture
+423,2025-08-24,online course udemy 11709,11709.74,expense,Education,online
+424,2025-08-24,gas cylinder booking 862,862.81,expense,Bills,gas
+425,2025-08-24,credit card bill payment 3887,3887.87,expense,Bills,credit
+426,2025-08-24,miscellaneous expense 377,377.03,expense,Other,miscellaneous
+427,2025-08-25,bakery order 657,657.22,expense,Food,bakery
+428,2025-08-25,mobile recharge jio 1853,1853.94,expense,Bills,mobile
+429,2025-08-25,supermarket vegetables 475,475.15,expense,Food,supermarket
+430,2025-08-26,college tuition fee 10066,10066.26,expense,Education,college
+431,2025-08-26,toll payment fastag 2437,2437.4,expense,Transport,toll
+432,2025-08-26,toll payment fastag 1373,1373.88,expense,Transport,toll
+433,2025-08-26,mcdonalds meal 1058,1058.13,expense,Food,mcdonalds
+434,2025-08-28,health insurance premium 3774,3774.49,expense,Health,health
+435,2025-08-28,doctor consultation fee 1822,1822.29,expense,Health,doctor
+436,2025-08-28,car service 1845,1845.91,expense,Transport,car
+437,2025-08-29,amazon order 2947,2947.93,expense,Shopping,amazon
+438,2025-08-29,hospital bill 4177,4177.36,expense,Health,hospital
+439,2025-08-30,gift purchase 2443,2443.92,expense,Other,gift
+440,2025-08-30,rapido bike 121,121.35,expense,Transport,rapido
+441,2025-08-30,electricity bill payment 4777,4777.99,expense,Bills,electricity
+442,2025-09-01,amusement park entry 1484,1484.76,expense,Entertainment,amusement
+443,2025-09-01,bank service charge 158,158.03,expense,Other,bank
+444,2025-09-02,concert tickets 1306,1306.86,expense,Entertainment,concert
+445,2025-09-04,movie tickets bookmyshow 1218,1218.88,expense,Entertainment,movie
+446,2025-09-04,coaching class fee 11226,11226.62,expense,Education,coaching
+447,2025-09-05,hospital bill 2556,2556.59,expense,Health,hospital
+448,2025-09-05,salon haircut 2776,2776.72,expense,Other,salon
+449,2025-09-05,movie tickets bookmyshow 1117,1117.64,expense,Entertainment,movie
+450,2025-09-07,furniture store 2491,2491.38,expense,Shopping,furniture
+451,2025-09-07,ola cab 839,839.96,expense,Transport,ola
+452,2025-09-07,gaming purchase steam 723,723.73,expense,Entertainment,gaming
+453,2025-09-08,decathlon sports gear 2942,2942.07,expense,Shopping,decathlon
+454,2025-09-08,food delivery 1054,1054.44,expense,Food,food
+455,2025-09-08,diagnostic lab test 1481,1481.59,expense,Health,diagnostic
+456,2025-09-11,hospital bill 4771,4771.03,expense,Health,hospital
+457,2025-09-11,decathlon sports gear 471,471.43,expense,Shopping,decathlon
+458,2025-09-11,metro card recharge 1952,1952.93,expense,Transport,metro
+459,2025-09-12,diagnostic lab test 4754,4754.92,expense,Health,diagnostic
+460,2025-09-12,supermarket vegetables 251,251.85,expense,Food,supermarket
+461,2025-09-13,dental checkup 2303,2303.11,expense,Health,dental
+462,2025-09-13,car service 370,370.11,expense,Transport,car
+463,2025-09-13,diagnostic lab test 1674,1674.77,expense,Health,diagnostic
+464,2025-09-14,water bill 301,301.59,expense,Bills,water
+465,2025-09-14,decathlon sports gear 4238,4238.41,expense,Shopping,decathlon
+466,2025-09-15,bus ticket 1944,1944.16,expense,Transport,bus
+467,2025-09-15,donation charity 2989,2989.28,expense,Other,donation
+468,2025-09-15,hotstar subscription 379,379.45,expense,Entertainment,hotstar
+469,2025-09-15,flipkart purchase 3725,3725.93,expense,Shopping,flipkart
+470,2025-09-16,auto rickshaw fare 2419,2419.88,expense,Transport,auto
+471,2025-09-16,dental checkup 3591,3591.27,expense,Health,dental
+472,2025-09-16,gaming purchase steam 1291,1291.76,expense,Entertainment,gaming
+473,2025-09-17,gym membership fee 738,738.61,expense,Health,gym
+474,2025-09-18,shopping mall 6364,6364.91,expense,Shopping,shopping
+475,2025-09-20,yoga class fee 4047,4047.76,expense,Health,yoga
+476,2025-09-20,flipkart purchase 712,712.84,expense,Shopping,flipkart
+477,2025-09-21,pet supplies 2319,2319.04,expense,Other,pet
+478,2025-09-21,petrol pump fuel 2431,2431.78,expense,Transport,petrol
+479,2025-09-21,rapido bike 1180,1180.61,expense,Transport,rapido
+480,2025-09-22,hospital bill 4408,4408.11,expense,Health,hospital
+481,2025-09-22,myntra clothes 3574,3574.42,expense,Shopping,myntra
+482,2025-09-22,zomato lunch order 660,660.27,expense,Food,zomato
+483,2025-09-22,spotify premium 325,325.92,expense,Entertainment,spotify
+484,2025-09-23,health insurance premium 4252,4252.78,expense,Health,health
+485,2025-09-24,maintenance society bill 1755,1755.54,expense,Bills,maintenance
+486,2025-09-24,movie tickets bookmyshow 803,803.1,expense,Entertainment,movie
+487,2025-09-25,myntra clothes 5338,5338.12,expense,Shopping,myntra
+488,2025-09-26,pharmacy medicines 4152,4152.4,expense,Health,pharmacy
+489,2025-09-26,zomato lunch order 130,130.92,expense,Food,zomato
+490,2025-09-26,amazon prime subscription 1173,1173.51,expense,Entertainment,amazon
+491,2025-09-26,exam registration fee 9693,9693.17,expense,Education,exam
+492,2025-09-27,gaming purchase steam 775,775.61,expense,Entertainment,gaming
+493,2025-09-27,book purchase 6967,6967.1,expense,Education,book
+494,2025-09-27,dominos pizza 572,572.36,expense,Food,dominos
+495,2025-09-28,donation charity 1053,1053.57,expense,Other,donation
+496,2025-09-28,footwear purchase 6919,6919.58,expense,Shopping,footwear
+497,2025-09-28,dental checkup 4880,4880.56,expense,Health,dental
+498,2025-09-29,doctor consultation fee 1697,1697.71,expense,Health,doctor
+499,2025-09-30,bus ticket 1140,1140.5,expense,Transport,bus
+500,2025-09-30,flipkart purchase 594,594.72,expense,Shopping,flipkart
+501,2025-09-30,coursera subscription 9346,9346.05,expense,Education,coursera
+502,2025-10-01,footwear purchase 7483,7483.26,expense,Shopping,footwear
+503,2025-10-02,mobile recharge jio 3064,3064.85,expense,Bills,mobile
+504,2025-10-02,home repair 2643,2643.27,expense,Other,home
+505,2025-10-03,zomato lunch order 1138,1138.66,expense,Food,zomato
+506,2025-10-03,donation charity 684,684.68,expense,Other,donation
+507,2025-10-03,pharmacy medicines 395,395.12,expense,Health,pharmacy
+508,2025-10-04,bank service charge 1633,1633.24,expense,Other,bank
+509,2025-10-04,parking fee 360,360.82,expense,Transport,parking
+510,2025-10-04,concert tickets 1169,1169.16,expense,Entertainment,concert
+511,2025-10-05,mcdonalds meal 137,137.3,expense,Food,mcdonalds
+512,2025-10-05,rent payment 3386,3386.35,expense,Bills,rent
+513,2025-10-07,bank service charge 2484,2484.67,expense,Other,bank
+514,2025-10-07,petrol pump fuel 2438,2438.45,expense,Transport,petrol
+515,2025-10-07,book purchase 11984,11984.99,expense,Education,book
+516,2025-10-08,hospital bill 1115,1115.43,expense,Health,hospital
+517,2025-10-08,exam registration fee 891,891.75,expense,Education,exam
+518,2025-10-10,yoga class fee 2668,2668.76,expense,Health,yoga
+519,2025-10-11,footwear purchase 7464,7464.68,expense,Shopping,footwear
+520,2025-10-12,ajio order 7926,7926.8,expense,Shopping,ajio
+521,2025-10-12,concert tickets 809,809.75,expense,Entertainment,concert
+522,2025-10-13,bank service charge 1450,1450.93,expense,Other,bank
+523,2025-10-13,grocery store bigbasket 450,450.99,expense,Food,grocery
+524,2025-10-13,parking fee 1471,1471.74,expense,Transport,parking
+525,2025-10-13,supermarket vegetables 611,611.54,expense,Food,supermarket
+526,2025-10-14,electricity bill payment 3563,3563.61,expense,Bills,electricity
+527,2025-10-14,furniture store 5106,5106.4,expense,Shopping,furniture
+528,2025-10-14,college tuition fee 12378,12378.42,expense,Education,college
+529,2025-10-14,electricity bill payment 3499,3499.54,expense,Bills,electricity
+530,2025-10-16,cafe coffee day 431,431.34,expense,Food,cafe
+531,2025-10-17,school fees payment 3297,3297.21,expense,Education,school
+532,2025-10-18,cash withdrawal atm 2132,2132.04,expense,Other,cash
+533,2025-10-18,maintenance society bill 2051,2051.54,expense,Bills,maintenance
+534,2025-10-18,pet supplies 975,975.57,expense,Other,pet
+535,2025-10-18,decathlon sports gear 7314,7314.57,expense,Shopping,decathlon
+536,2025-10-19,health insurance premium 3108,3108.87,expense,Health,health
+537,2025-10-19,broadband internet bill 1782,1782.19,expense,Bills,broadband
+538,2025-10-20,gas cylinder booking 4661,4661.37,expense,Bills,gas
+539,2025-10-20,dth recharge 2004,2004.69,expense,Bills,dth
+540,2025-10-21,gaming purchase steam 269,269.75,expense,Entertainment,gaming
+541,2025-10-21,coaching class fee 12330,12330.15,expense,Education,coaching
+542,2025-10-22,netflix subscription 501,501.97,expense,Entertainment,netflix
+543,2025-10-24,bank service charge 2254,2254.65,expense,Other,bank
+544,2025-10-24,broadband internet bill 4993,4993.52,expense,Bills,broadband
+545,2025-10-25,spotify premium 252,252.03,expense,Entertainment,spotify
+546,2025-10-25,broadband internet bill 446,446.98,expense,Bills,broadband
+547,2025-10-26,broadband internet bill 457,457.07,expense,Bills,broadband
+548,2025-10-26,book purchase 10845,10845.16,expense,Education,book
+549,2025-10-26,auto rickshaw fare 1933,1933.79,expense,Transport,auto
+550,2025-10-26,street food vendor 1175,1175.26,expense,Food,street
+551,2025-10-27,school fees payment 14044,14044.97,expense,Education,school
+552,2025-10-28,donation charity 2279,2279.94,expense,Other,donation
+553,2025-10-28,concert tickets 498,498.87,expense,Entertainment,concert
+554,2025-10-28,zomato lunch order 810,810.57,expense,Food,zomato
+555,2025-10-29,dominos pizza 548,548.03,expense,Food,dominos
+556,2025-10-30,mcdonalds meal 962,962.52,expense,Food,mcdonalds
+557,2025-10-31,netflix subscription 111,111.98,expense,Entertainment,netflix
+558,2025-11-01,train ticket irctc 732,732.87,expense,Transport,train
+559,2025-11-01,gift purchase 2560,2560.63,expense,Other,gift
+560,2025-11-01,bank service charge 618,618.79,expense,Other,bank
+561,2025-11-01,train ticket irctc 431,431.36,expense,Transport,train
+562,2025-11-02,spotify premium 118,118.73,expense,Entertainment,spotify
+563,2025-11-02,health insurance premium 2903,2903.74,expense,Health,health
+564,2025-11-02,mobile recharge jio 3724,3724.08,expense,Bills,mobile
+565,2025-11-03,exam registration fee 5120,5120.52,expense,Education,exam
+566,2025-11-03,school fees payment 1702,1702.16,expense,Education,school
+567,2025-11-03,decathlon sports gear 2724,2724.09,expense,Shopping,decathlon
+568,2025-11-04,restaurant bill 509,509.6,expense,Food,restaurant
+569,2025-11-05,concert tickets 522,522.03,expense,Entertainment,concert
+570,2025-11-05,restaurant bill 812,812.13,expense,Food,restaurant
+571,2025-11-05,electricity bill payment 4056,4056.55,expense,Bills,electricity
+572,2025-11-06,spotify premium 666,666.99,expense,Entertainment,spotify
+573,2025-11-06,movie tickets bookmyshow 993,993.83,expense,Entertainment,movie
+574,2025-11-06,concert tickets 960,960.09,expense,Entertainment,concert
+575,2025-11-07,decathlon sports gear 1394,1394.85,expense,Shopping,decathlon
+576,2025-11-08,diagnostic lab test 3554,3554.41,expense,Health,diagnostic
+577,2025-11-08,donation charity 2297,2297.49,expense,Other,donation
+578,2025-11-08,toll payment fastag 1133,1133.47,expense,Transport,toll
+579,2025-11-08,doctor consultation fee 4598,4598.64,expense,Health,doctor
+580,2025-11-11,maintenance society bill 1026,1026.64,expense,Bills,maintenance
+581,2025-11-11,yoga class fee 713,713.76,expense,Health,yoga
+582,2025-11-11,dth recharge 682,682.01,expense,Bills,dth
+583,2025-11-11,cash withdrawal atm 1387,1387.63,expense,Other,cash
+584,2025-11-12,coaching class fee 8589,8589.49,expense,Education,coaching
+585,2025-11-12,bank service charge 2183,2183.68,expense,Other,bank
+586,2025-11-12,book purchase 12301,12301.86,expense,Education,book
+587,2025-11-12,water bill 414,414.95,expense,Bills,water
+588,2025-11-13,toll payment fastag 2485,2485.49,expense,Transport,toll
+589,2025-11-13,rapido bike 108,108.39,expense,Transport,rapido
+590,2025-11-14,myntra clothes 6173,6173.46,expense,Shopping,myntra
+591,2025-11-14,book purchase 14894,14894.99,expense,Education,book
+592,2025-11-14,coaching class fee 13083,13083.42,expense,Education,coaching
+593,2025-11-15,online course udemy 10336,10336.14,expense,Education,online
+594,2025-11-15,footwear purchase 1125,1125.34,expense,Shopping,footwear
+595,2025-11-15,exam registration fee 2172,2172.0,expense,Education,exam
+596,2025-11-16,swiggy dinner 1175,1175.91,expense,Food,swiggy
+597,2025-11-17,exam registration fee 5875,5875.36,expense,Education,exam
+598,2025-11-17,broadband internet bill 2844,2844.66,expense,Bills,broadband
+599,2025-11-17,electronics store 1670,1670.15,expense,Shopping,electronics
+600,2025-11-20,starbucks coffee 310,310.81,expense,Food,starbucks
+601,2025-11-20,car service 112,112.93,expense,Transport,car
+602,2025-11-20,starbucks coffee 909,909.41,expense,Food,starbucks
+603,2025-11-21,donation charity 1642,1642.29,expense,Other,donation
+604,2025-11-21,dominos pizza 644,644.36,expense,Food,dominos
+605,2025-11-21,amazon prime subscription 1241,1241.92,expense,Entertainment,amazon
+606,2025-11-22,dental checkup 1298,1298.98,expense,Health,dental
+607,2025-11-22,furniture store 1924,1924.13,expense,Shopping,furniture
+608,2025-11-22,gaming purchase steam 184,184.4,expense,Entertainment,gaming
+609,2025-11-22,ajio order 4535,4535.64,expense,Shopping,ajio
+610,2025-11-24,coursera subscription 8009,8009.61,expense,Education,coursera
+611,2025-11-24,coaching class fee 2493,2493.5,expense,Education,coaching
+612,2025-11-25,furniture store 3893,3893.45,expense,Shopping,furniture
+613,2025-11-25,gas cylinder booking 5166,5166.62,expense,Bills,gas
+614,2025-11-25,decathlon sports gear 7334,7334.98,expense,Shopping,decathlon
+615,2025-11-26,coaching class fee 8492,8492.12,expense,Education,coaching
+616,2025-11-26,ajio order 2094,2094.3,expense,Shopping,ajio
+617,2025-11-26,rent payment 3933,3933.23,expense,Bills,rent
+618,2025-11-26,salon haircut 322,322.77,expense,Other,salon
+619,2025-11-27,restaurant bill 502,502.43,expense,Food,restaurant
+620,2025-11-28,zomato lunch order 290,290.74,expense,Food,zomato
+621,2025-11-28,dth recharge 1372,1372.0,expense,Bills,dth
+622,2025-11-28,health insurance premium 4791,4791.55,expense,Health,health
+623,2025-11-28,starbucks coffee 1129,1129.62,expense,Food,starbucks
+624,2025-11-30,broadband internet bill 2470,2470.3,expense,Bills,broadband
+625,2025-11-30,maintenance society bill 2031,2031.45,expense,Bills,maintenance
+626,2025-11-30,amusement park entry 752,752.22,expense,Entertainment,amusement
+627,2025-12-01,gaming purchase steam 602,602.86,expense,Entertainment,gaming
+628,2025-12-01,home repair 340,340.89,expense,Other,home
+629,2025-12-02,gym membership fee 1947,1947.92,expense,Health,gym
+630,2025-12-02,online course udemy 8569,8569.11,expense,Education,online
+631,2025-12-02,mobile recharge jio 244,244.89,expense,Bills,mobile
+632,2025-12-03,book purchase 2540,2540.45,expense,Education,book
+633,2025-12-03,gym membership fee 1992,1992.22,expense,Health,gym
+634,2025-12-03,dth recharge 3371,3371.26,expense,Bills,dth
+635,2025-12-03,health insurance premium 3852,3852.3,expense,Health,health
+636,2025-12-04,home repair 546,546.29,expense,Other,home
+637,2025-12-04,hospital bill 828,828.8,expense,Health,hospital
+638,2025-12-04,gift purchase 2754,2754.85,expense,Other,gift
+639,2025-12-05,street food vendor 117,117.88,expense,Food,street
+640,2025-12-05,auto rickshaw fare 149,149.83,expense,Transport,auto
+641,2025-12-05,mcdonalds meal 233,233.99,expense,Food,mcdonalds
+642,2025-12-05,water bill 4286,4286.94,expense,Bills,water
+643,2025-12-07,salon haircut 228,228.33,expense,Other,salon
+644,2025-12-08,home repair 96,96.41,expense,Other,home
+645,2025-12-08,online course udemy 545,545.87,expense,Education,online
+646,2025-12-08,gaming purchase steam 123,123.02,expense,Entertainment,gaming
+647,2025-12-08,coursera subscription 14113,14113.77,expense,Education,coursera
+648,2025-12-09,ola cab 1325,1325.23,expense,Transport,ola
+649,2025-12-10,maintenance society bill 1626,1626.65,expense,Bills,maintenance
+650,2025-12-11,amusement park entry 209,209.71,expense,Entertainment,amusement
+651,2025-12-11,coaching class fee 8605,8605.53,expense,Education,coaching
+652,2025-12-12,movie tickets bookmyshow 1014,1014.88,expense,Entertainment,movie
+653,2025-12-15,coaching class fee 8424,8424.71,expense,Education,coaching
+654,2025-12-15,bakery order 90,90.58,expense,Food,bakery
+655,2025-12-15,flipkart purchase 4098,4098.9,expense,Shopping,flipkart
+656,2025-12-16,doctor consultation fee 4489,4489.74,expense,Health,doctor
+657,2025-12-16,starbucks coffee 316,316.79,expense,Food,starbucks
+658,2025-12-16,bank service charge 187,187.36,expense,Other,bank
+659,2025-12-18,dominos pizza 1120,1120.22,expense,Food,dominos
+660,2025-12-18,pharmacy medicines 4813,4813.13,expense,Health,pharmacy
+661,2025-12-19,ajio order 7445,7445.22,expense,Shopping,ajio
+662,2025-12-19,spotify premium 889,889.11,expense,Entertainment,spotify
+663,2025-12-19,school fees payment 13478,13478.93,expense,Education,school
+664,2025-12-19,diagnostic lab test 3814,3814.7,expense,Health,diagnostic
+665,2025-12-20,toll payment fastag 1871,1871.28,expense,Transport,toll
+666,2025-12-21,zomato lunch order 569,569.54,expense,Food,zomato
+667,2025-12-21,train ticket irctc 1524,1524.77,expense,Transport,train
+668,2025-12-22,coursera subscription 5097,5097.74,expense,Education,coursera
+669,2025-12-22,hotstar subscription 786,786.34,expense,Entertainment,hotstar
+670,2025-12-22,diagnostic lab test 2244,2244.46,expense,Health,diagnostic
+671,2025-12-22,online course udemy 11650,11650.86,expense,Education,online
+672,2025-12-23,water bill 629,629.92,expense,Bills,water
+673,2025-12-23,ajio order 5751,5751.08,expense,Shopping,ajio
+674,2025-12-24,book purchase 5602,5602.29,expense,Education,book
+675,2025-12-27,salon haircut 2295,2295.97,expense,Other,salon
+676,2025-12-27,petrol pump fuel 245,245.62,expense,Transport,petrol
+677,2025-12-28,pet supplies 354,354.71,expense,Other,pet
+678,2025-12-28,train ticket irctc 1398,1398.92,expense,Transport,train
+679,2025-12-28,diagnostic lab test 209,209.85,expense,Health,diagnostic
+680,2025-12-29,coursera subscription 1545,1545.08,expense,Education,coursera
+681,2025-12-29,maintenance society bill 1142,1142.06,expense,Bills,maintenance
+682,2025-12-29,college tuition fee 2340,2340.95,expense,Education,college
+683,2025-12-30,hotstar subscription 303,303.45,expense,Entertainment,hotstar
+684,2025-12-30,ajio order 2352,2352.5,expense,Shopping,ajio
+685,2025-12-31,miscellaneous expense 1115,1115.32,expense,Other,miscellaneous
+686,2025-12-31,dth recharge 3623,3623.77,expense,Bills,dth

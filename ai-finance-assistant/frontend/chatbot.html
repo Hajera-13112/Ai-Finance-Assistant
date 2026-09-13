@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Chatbot — AI Finance Assistant</title>
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<div class="app-shell">
+  <nav class="sidebar">
+    <div class="brand">Ledger<span>.</span></div>
+    <div class="tagline">AI Finance Assistant</div>
+    <div class="nav-links">
+      <a href="dashboard.html">Dashboard</a>
+      <a href="transactions.html">Transactions</a>
+      <a href="budgets.html">Budgets</a>
+      <a href="insights.html">Insights</a>
+      <a href="chatbot.html" class="active">Chatbot</a>
+    </div>
+    <div class="sidebar-footer">
+      <span class="user-name" id="sidebar-user">—</span>
+      <a href="#" id="logout-link">Sign out</a>
+    </div>
+  </nav>
+
+  <main class="main">
+    <div class="page-header">
+      <h1>Chatbot</h1>
+      <div class="sub">Ask about your balance, budgets, categories, or how to use the app.</div>
+    </div>
+
+    <div class="chat-shell">
+      <div class="chat-log" id="chat-log">
+        <div class="chat-row bot">
+          <div class="chat-bubble bot">
+            Hi! Ask me things like "what's my balance", "what's my budget status",
+            "how do I add a transaction", or "give me an insight".
+          </div>
+        </div>
+      </div>
+
+      <div class="chat-suggestions" id="chat-suggestions">
+        <button type="button" class="chip" data-msg="What's my balance?">What's my balance?</button>
+        <button type="button" class="chip" data-msg="What's my budget status?">Budget status</button>
+        <button type="button" class="chip" data-msg="How do I add a transaction?">How do I add a transaction?</button>
+        <button type="button" class="chip" data-msg="Give me an insight">Give me an insight</button>
+      </div>
+
+      <form class="chat-input-row" id="chat-form">
+        <input type="text" id="chat-input" placeholder="Type a question…" autocomplete="off" required />
+        <button type="submit">Send</button>
+      </form>
+    </div>
+  </main>
+</div>
+
+<script src="assets/js/api.js"></script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/chatbot.js"></script>
+</body>
+</html>
